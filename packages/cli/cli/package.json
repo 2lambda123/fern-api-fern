@@ -71,7 +71,7 @@
     "@fern-fern/fiddle-sdk": "^0.0.386",
     "@fern-fern/ir-sdk": "0.0.3294",
     "ansi-escapes": "^5.0.0",
-    "axios": "^0.27.2",
+    "axios": "^1.6.7",
     "boxen": "^7.0.0",
     "chalk": "^5.0.1",
     "immer": "^9.0.15",
