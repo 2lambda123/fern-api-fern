@@ -4774,7 +4774,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/node", "npm:18.7.18"],\
             ["depcheck", "npm:1.4.6"],\
             ["eslint", "npm:8.56.0"],\
-            ["find-up", "npm:6.3.0"],\
+            ["find-up", "npm:7.0.0"],\
             ["jest", "virtual:f8e21c9fa0a798b21a87ac455600e39198fef65848556a3a2cd5c956b0460181f9e618173dcff6d9d4fb96fb870055dfe1a3ec3db5db0700e71c0184e4711659#npm:29.7.0"],\
             ["organize-imports-cli", "npm:0.10.0"],\
             ["prettier", "npm:2.7.1"],\
@@ -4966,7 +4966,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["env-cmd", "https://github.com/toddbluhm/env-cmd.git#commit=8f35b71651f6a78710308ff38ab30896ea72ee8b"],\
             ["esbuild", "npm:0.15.7"],\
             ["eslint", "npm:8.56.0"],\
-            ["find-up", "npm:6.3.0"],\
+            ["find-up", "npm:7.0.0"],\
             ["jest", "virtual:f8e21c9fa0a798b21a87ac455600e39198fef65848556a3a2cd5c956b0460181f9e618173dcff6d9d4fb96fb870055dfe1a3ec3db5db0700e71c0184e4711659#npm:29.7.0"],\
             ["js-yaml", "npm:4.1.0"],\
             ["lodash-es", "npm:4.17.21"],\
@@ -5142,7 +5142,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["chalk", "npm:5.0.1"],\
             ["depcheck", "npm:1.4.6"],\
             ["eslint", "npm:8.56.0"],\
-            ["find-up", "npm:6.3.0"],\
+            ["find-up", "npm:7.0.0"],\
             ["glob", "npm:7.2.3"],\
             ["glob-promise", "virtual:d0b97f1ffbbba5f68677f8de5528a6253876ba0308e5b925f456f5c3d22cb44ca6ee24cf384ff463290be4bfc4d4ac76a778fbf010db92140d0599206280fed9#npm:4.2.2"],\
             ["inquirer", "npm:9.2.11"],\
@@ -12106,6 +12106,16 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["path-exists", "npm:5.0.0"]\
           ],\
           "linkType": "HARD"\
+        }],\
+        ["npm:7.0.0", {\
+          "packageLocation": "./.yarn/cache/find-up-npm-7.0.0-2283627385-e1c63860f9.zip/node_modules/find-up/",\
+          "packageDependencies": [\
+            ["find-up", "npm:7.0.0"],\
+            ["locate-path", "npm:7.2.0"],\
+            ["path-exists", "npm:5.0.0"],\
+            ["unicorn-magic", "npm:0.1.0"]\
+          ],\
+          "linkType": "HARD"\
         }]\
       ]],\
       ["findup-sync", [\
@@ -14843,6 +14853,14 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/locate-path-npm-7.1.1-f7185f31cc-1d88af5b51.zip/node_modules/locate-path/",\
           "packageDependencies": [\
             ["locate-path", "npm:7.1.1"],\
+            ["p-locate", "npm:6.0.0"]\
+          ],\
+          "linkType": "HARD"\
+        }],\
+        ["npm:7.2.0", {\
+          "packageLocation": "./.yarn/cache/locate-path-npm-7.2.0-0e1169e19b-c1b653bdf2.zip/node_modules/locate-path/",\
+          "packageDependencies": [\
+            ["locate-path", "npm:7.2.0"],\
             ["p-locate", "npm:6.0.0"]\
           ],\
           "linkType": "HARD"\
@@ -20634,6 +20652,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/unicode-property-aliases-ecmascript-npm-2.0.0-1636cb7768-dda4d39128.zip/node_modules/unicode-property-aliases-ecmascript/",\
           "packageDependencies": [\
             ["unicode-property-aliases-ecmascript", "npm:2.0.0"]\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
+      ["unicorn-magic", [\
+        ["npm:0.1.0", {\
+          "packageLocation": "./.yarn/cache/unicorn-magic-npm-0.1.0-12d4f6ff8b-48c5882ca3.zip/node_modules/unicorn-magic/",\
+          "packageDependencies": [\
+            ["unicorn-magic", "npm:0.1.0"]\
           ],\
           "linkType": "HARD"\
         }]\
