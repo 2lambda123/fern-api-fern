@@ -4628,7 +4628,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./generators/openapi/",\
           "packageDependencies": [\
             ["@fern-api/openapi-generator", "workspace:generators/openapi"],\
-            ["@fern-fern/generator-exec-client", "npm:0.0.6"],\
+            ["@fern-fern/generator-exec-client", "virtual:f8c2c21ccf4a7bff0441fa7ad0112165eef5a99e1541a7f735814dca224460f0aac610b288e46779d03f09b1af2c6d92073604dc78c5efe37c27cfff6010d3d2#npm:0.0.37"],\
             ["@fern-fern/ir-sdk", "npm:0.0.2828"],\
             ["@types/jest", "npm:29.0.3"],\
             ["@types/js-yaml", "npm:4.0.8"],\
@@ -5208,13 +5208,24 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@fern-fern/generator-exec-client", [\
-        ["npm:0.0.6", {\
-          "packageLocation": "./.yarn/cache/@fern-fern-generator-exec-client-npm-0.0.6-a67eee9ea4-84e55406af.zip/node_modules/@fern-fern/generator-exec-client/",\
+        ["npm:0.0.37", {\
+          "packageLocation": "./.yarn/cache/@fern-fern-generator-exec-client-npm-0.0.37-d7954c646c-0b9465fcdd.zip/node_modules/@fern-fern/generator-exec-client/",\
           "packageDependencies": [\
-            ["@fern-fern/generator-exec-client", "npm:0.0.6"],\
-            ["@fern-typescript/service-utils", "npm:0.0.184"],\
+            ["@fern-fern/generator-exec-client", "npm:0.0.37"]\
+          ],\
+          "linkType": "SOFT"\
+        }],\
+        ["virtual:f8c2c21ccf4a7bff0441fa7ad0112165eef5a99e1541a7f735814dca224460f0aac610b288e46779d03f09b1af2c6d92073604dc78c5efe37c27cfff6010d3d2#npm:0.0.37", {\
+          "packageLocation": "./.yarn/__virtual__/@fern-fern-generator-exec-client-virtual-1270207c96/0/cache/@fern-fern-generator-exec-client-npm-0.0.37-d7954c646c-0b9465fcdd.zip/node_modules/@fern-fern/generator-exec-client/",\
+          "packageDependencies": [\
+            ["@fern-fern/generator-exec-client", "virtual:f8c2c21ccf4a7bff0441fa7ad0112165eef5a99e1541a7f735814dca224460f0aac610b288e46779d03f09b1af2c6d92073604dc78c5efe37c27cfff6010d3d2#npm:0.0.37"],\
+            ["@types/axios", null],\
             ["@types/url-join", "npm:4.0.1"],\
+            ["axios", "npm:0.27.2"],\
             ["url-join", "npm:4.0.1"]\
+          ],\
+          "packagePeers": [\
+            "@types/axios"\
           ],\
           "linkType": "HARD"\
         }]\
@@ -5570,18 +5581,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/@fern-fern-seed-config-npm-0.0.15-0d14dfa300-522500dcd3.zip/node_modules/@fern-fern/seed-config/",\
           "packageDependencies": [\
             ["@fern-fern/seed-config", "npm:0.0.15"]\
-          ],\
-          "linkType": "HARD"\
-        }]\
-      ]],\
-      ["@fern-typescript/service-utils", [\
-        ["npm:0.0.184", {\
-          "packageLocation": "./.yarn/cache/@fern-typescript-service-utils-npm-0.0.184-ed1d3cdf6e-173877b5eb.zip/node_modules/@fern-typescript/service-utils/",\
-          "packageDependencies": [\
-            ["@fern-typescript/service-utils", "npm:0.0.184"],\
-            ["axios", "npm:0.27.2"],\
-            ["basic-auth", "npm:2.0.1"],\
-            ["js-base64", "npm:3.7.2"]\
           ],\
           "linkType": "HARD"\
         }]\

@@ -2790,7 +2790,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@fern-api/openapi-generator@workspace:generators/openapi"
   dependencies:
-    "@fern-fern/generator-exec-client": ^0.0.6
+    "@fern-fern/generator-exec-client": ^0.0.37
     "@fern-fern/ir-sdk": 0.0.2828
     "@types/jest": ^29.0.3
     "@types/js-yaml": ^4.0.8
@@ -3336,14 +3336,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fern-fern/generator-exec-client@npm:^0.0.6":
-  version: 0.0.6
-  resolution: "@fern-fern/generator-exec-client@npm:0.0.6"
+"@fern-fern/generator-exec-client@npm:^0.0.37":
+  version: 0.0.37
+  resolution: "@fern-fern/generator-exec-client@npm:0.0.37"
   dependencies:
-    "@fern-typescript/service-utils": 0.0.184
     "@types/url-join": 4.0.1
+    axios: ^0.27.2
     url-join: 4.0.1
-  checksum: 84e55406af4393b5d3f8127a93f0fefed202c9681efb83388e191725b097cbf2eed8f2a966fce12943ffe8dce13a8f55d20df1223c133998eeb4e0c50cf69440
+  peerDependencies:
+    axios: "*"
+  checksum: 0b9465fcdddaed16951204d7ad84ab71b1aaebf31421ab202416d2810d7629d454918c40b969591ac5018c4f4655b5fa347dede5eb7814cd367eebfea4d863f3
   languageName: node
   linkType: hard
 
@@ -3627,17 +3629,6 @@ __metadata:
   version: 0.0.15
   resolution: "@fern-fern/seed-config@npm:0.0.15"
   checksum: 522500dcd3a33e9d74ee0c64950183cc65d847b7a5ddcfc1724fa858816a9afef015a124be97a72714d358c1b8846542c7407cd198cc51885e6dcce5bf4ccee7
-  languageName: node
-  linkType: hard
-
-"@fern-typescript/service-utils@npm:0.0.184":
-  version: 0.0.184
-  resolution: "@fern-typescript/service-utils@npm:0.0.184"
-  dependencies:
-    axios: ^0.27.2
-    basic-auth: ^2.0.1
-    js-base64: ^3.7.2
-  checksum: 173877b5eb6412e65f577cf7f2ce90317e81e5348bbba0cb6c1b272d10b44c0ad74f1bafb16428f88b42a1af51343f45b82d2664728d5d7f1cf00e987bd3f6be
   languageName: node
   linkType: hard
 
