@@ -46,7 +46,7 @@
     "@fern-fern/fiddle-sdk": "^0.0.386",
     "@fern-fern/seed-config": "0.0.15",
     "chalk": "^5.0.1",
-    "find-up": "^6.3.0",
+    "find-up": "^7.0.0",
     "js-yaml": "^4.1.0",
     "lodash-es": "^4.17.21",
     "tmp-promise": "^3.0.3",

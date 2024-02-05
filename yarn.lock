@@ -2930,7 +2930,7 @@ __metadata:
     "@types/node": ^18.7.18
     depcheck: ^1.4.6
     eslint: ^8.56.0
-    find-up: ^6.3.0
+    find-up: ^7.0.0
     jest: ^29.7.0
     organize-imports-cli: ^0.10.0
     prettier: ^2.7.1
@@ -3112,7 +3112,7 @@ __metadata:
     env-cmd: toddbluhm/env-cmd
     esbuild: ^0.15.7
     eslint: ^8.56.0
-    find-up: ^6.3.0
+    find-up: ^7.0.0
     jest: ^29.7.0
     js-yaml: ^4.1.0
     lodash-es: ^4.17.21
@@ -3277,7 +3277,7 @@ __metadata:
     chalk: ^5.0.1
     depcheck: ^1.4.6
     eslint: ^8.56.0
-    find-up: ^6.3.0
+    find-up: ^7.0.0
     glob: ^7.2.0
     glob-promise: ^4.2.2
     inquirer: ^9.2.11
@@ -9055,7 +9055,7 @@ env-cmd@toddbluhm/env-cmd:
   languageName: node
   linkType: hard
 
-"find-up@npm:*, find-up@npm:^6.3.0":
+"find-up@npm:*":
   version: 6.3.0
   resolution: "find-up@npm:6.3.0"
   dependencies:
@@ -9082,6 +9082,17 @@ env-cmd@toddbluhm/env-cmd:
     locate-path: ^6.0.0
     path-exists: ^4.0.0
   checksum: 07955e357348f34660bde7920783204ff5a26ac2cafcaa28bace494027158a97b9f56faaf2d89a6106211a8174db650dd9f503f9c0d526b1202d5554a00b9095
+  languageName: node
+  linkType: hard
+
+"find-up@npm:^7.0.0":
+  version: 7.0.0
+  resolution: "find-up@npm:7.0.0"
+  dependencies:
+    locate-path: ^7.2.0
+    path-exists: ^5.0.0
+    unicorn-magic: ^0.1.0
+  checksum: e1c63860f9c04355ab2aa19f4be51c1a6e14a7d8cfbd8090e2be6da2a36a76995907cb45337a4b582b19b164388f71d6ab118869dc7bffb2093f2c089ecb95ee
   languageName: node
   linkType: hard
 
@@ -11486,6 +11497,15 @@ env-cmd@toddbluhm/env-cmd:
   dependencies:
     p-locate: ^6.0.0
   checksum: 1d88af5b512d6e6398026252e17382907126683ab09ae5d6b8918d0bc72ca2642e1ad6e2fe635c5920840e369618e5d748c08deb57ba537fdd3f78e87ca993e0
+  languageName: node
+  linkType: hard
+
+"locate-path@npm:^7.2.0":
+  version: 7.2.0
+  resolution: "locate-path@npm:7.2.0"
+  dependencies:
+    p-locate: ^6.0.0
+  checksum: c1b653bdf29beaecb3d307dfb7c44d98a2a98a02ebe353c9ad055d1ac45d6ed4e1142563d222df9b9efebc2bcb7d4c792b507fad9e7150a04c29530b7db570f8
   languageName: node
   linkType: hard
 
@@ -16667,6 +16687,13 @@ env-cmd@toddbluhm/env-cmd:
   version: 2.0.0
   resolution: "unicode-property-aliases-ecmascript@npm:2.0.0"
   checksum: dda4d39128cbbede2ac60fbb85493d979ec65913b8a486bf7cb7a375a2346fa48cbf9dc6f1ae23376e7e8e684c2b411434891e151e865a661b40a85407db51d0
+  languageName: node
+  linkType: hard
+
+"unicorn-magic@npm:^0.1.0":
+  version: 0.1.0
+  resolution: "unicorn-magic@npm:0.1.0"
+  checksum: 48c5882ca3378f380318c0b4eb1d73b7e3c5b728859b060276e0a490051d4180966beeb48962d850fd0c6816543bcdfc28629dcd030bb62a286a2ae2acb5acb6
   languageName: node
   linkType: hard
 
