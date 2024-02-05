@@ -2041,7 +2041,7 @@ __metadata:
     "@types/boxen": ^3.0.1
     "@types/is-ci": ^3.0.4
     "@types/jest": ^29.0.3
-    "@types/js-yaml": ^4.0.8
+    "@types/js-yaml": ^4.0.9
     "@types/latest-version": ^4.0.1
     "@types/lodash-es": ^4.17.7
     "@types/node": ^18.7.18
@@ -2195,7 +2195,7 @@ __metadata:
     "@fern-api/project-configuration": "workspace:*"
     "@fern-api/task-context": "workspace:*"
     "@types/jest": ^29.0.3
-    "@types/js-yaml": ^4.0.8
+    "@types/js-yaml": ^4.0.9
     "@types/node": ^18.7.18
     depcheck: ^1.4.6
     eslint: ^8.56.0
@@ -2238,7 +2238,7 @@ __metadata:
     "@fern-api/task-context": "workspace:*"
     "@fern-fern/docs-config": 0.0.53
     "@types/jest": ^29.0.3
-    "@types/js-yaml": ^4.0.8
+    "@types/js-yaml": ^4.0.9
     "@types/node": ^18.7.18
     depcheck: ^1.4.6
     eslint: ^8.56.0
@@ -2311,7 +2311,7 @@ __metadata:
     "@fern-api/logging-execa": "workspace:*"
     "@fern-api/project-configuration": "workspace:*"
     "@types/jest": ^29.0.3
-    "@types/js-yaml": ^4.0.8
+    "@types/js-yaml": ^4.0.9
     "@types/node": ^18.7.18
     depcheck: ^1.4.6
     eslint: ^8.56.0
@@ -2474,7 +2474,7 @@ __metadata:
     "@fern-api/task-context": "workspace:*"
     "@fern-fern/fiddle-sdk": ^0.0.386
     "@types/jest": ^29.0.3
-    "@types/js-yaml": ^4.0.8
+    "@types/js-yaml": ^4.0.9
     "@types/node": ^18.7.18
     depcheck: ^1.4.6
     eslint: ^8.56.0
@@ -2504,7 +2504,7 @@ __metadata:
     "@fern-fern/docs-config": 0.0.53
     "@types/fs-extra": ^11.0.1
     "@types/jest": ^29.0.3
-    "@types/js-yaml": ^4.0.8
+    "@types/js-yaml": ^4.0.9
     "@types/lodash-es": ^4.17.7
     "@types/node": ^18.7.18
     axios: ^1.6.7
@@ -2793,7 +2793,7 @@ __metadata:
     "@fern-fern/generator-exec-client": ^0.0.37
     "@fern-fern/ir-sdk": 0.0.2828
     "@types/jest": ^29.0.3
-    "@types/js-yaml": ^4.0.8
+    "@types/js-yaml": ^4.0.9
     "@types/lodash-es": ^4.17.7
     "@types/node": ^18.7.18
     "@yarnpkg/esbuild-plugin-pnp": ^3.0.0-rc.14
@@ -2852,7 +2852,7 @@ __metadata:
     "@fern-fern/openapi-ir-model": 0.0.165
     "@redocly/openapi-core": ^1.4.1
     "@types/jest": ^29.0.3
-    "@types/js-yaml": ^4.0.8
+    "@types/js-yaml": ^4.0.9
     "@types/lodash-es": ^4.17.7
     "@types/node": ^18.7.18
     "@types/swagger2openapi": ^7.0.4
@@ -2950,7 +2950,7 @@ __metadata:
     "@fern-api/task-context": "workspace:*"
     "@fern-api/workspace-loader": "workspace:*"
     "@types/jest": ^29.0.3
-    "@types/js-yaml": ^4.0.8
+    "@types/js-yaml": ^4.0.9
     "@types/node": ^18.7.18
     chalk: ^5.0.1
     depcheck: ^1.4.6
@@ -3061,7 +3061,7 @@ __metadata:
     "@fern-api/fs-utils": "workspace:*"
     "@fern-api/json-schema": "workspace:*"
     "@types/jest": ^29.0.3
-    "@types/js-yaml": ^4.0.8
+    "@types/js-yaml": ^4.0.9
     "@types/lodash-es": ^4.17.7
     "@types/node": ^18.7.18
     "@types/yargs": ^17.0.28
@@ -3102,7 +3102,7 @@ __metadata:
     "@fern-fern/seed-config": 0.0.15
     "@types/find-up": ^4.0.0
     "@types/jest": ^29.0.3
-    "@types/js-yaml": ^4.0.8
+    "@types/js-yaml": ^4.0.9
     "@types/lodash-es": ^4.17.7
     "@types/node": ^18.7.18
     "@types/yargs": ^17.0.28
@@ -3216,7 +3216,7 @@ __metadata:
     "@fern-fern/fiddle-sdk": ^0.0.386
     "@fern-fern/openapi-ir-model": 0.0.165
     "@types/jest": ^29.0.3
-    "@types/js-yaml": ^4.0.8
+    "@types/js-yaml": ^4.0.9
     "@types/lodash-es": ^4.17.7
     "@types/node": ^18.7.18
     "@types/tar": ^6.1.7
@@ -3272,7 +3272,7 @@ __metadata:
     "@fern-fern/legacy-docs-config": 0.0.58
     "@types/inquirer": ^9.0.3
     "@types/jest": ^29.0.3
-    "@types/js-yaml": ^4.0.8
+    "@types/js-yaml": ^4.0.9
     "@types/node": ^18.7.18
     chalk: ^5.0.1
     depcheck: ^1.4.6
@@ -3301,7 +3301,7 @@ __metadata:
     "@fern-fern/docs-config": 0.0.53
     "@fern-fern/ir-sdk": 0.0.3294
     "@types/jest": ^29.0.3
-    "@types/js-yaml": ^4.0.8
+    "@types/js-yaml": ^4.0.9
     "@types/node": ^18.7.18
     depcheck: ^1.4.6
     eslint: ^8.56.0
@@ -4679,10 +4679,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/js-yaml@npm:^4.0.8":
-  version: 4.0.8
-  resolution: "@types/js-yaml@npm:4.0.8"
-  checksum: a5a77a5a1eac7e7fb667156c251c2b947ca4ddfdda570726369dd50bd5b2b1d0da2d0fb4273d1b10aa1782406d7b3da8923d957df4fb89dbfa1db06f43297de2
+"@types/js-yaml@npm:^4.0.9":
+  version: 4.0.9
+  resolution: "@types/js-yaml@npm:4.0.9"
+  checksum: e5e5e49b5789a29fdb1f7d204f82de11cb9e8f6cb24ab064c616da5d6e1b3ccfbf95aa5d1498a9fbd3b9e745564e69b4a20b6c530b5a8bbb2d4eb830cda9bc69
   languageName: node
   linkType: hard
 
