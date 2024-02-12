@@ -8961,7 +8961,7 @@ env-cmd@toddbluhm/env-cmd:
     immer: ^9.0.15
     is-ci: ^3.0.1
     jest: ^29.7.0
-    jsonc-parser: ~2.2.1
+    jsonc-parser: ~3.2.1
     lint-staged: ^13.0.3
     lodash-es: ^4.17.21
     mrlint: ^0.0.131
@@ -11233,10 +11233,10 @@ env-cmd@toddbluhm/env-cmd:
   languageName: node
   linkType: hard
 
-"jsonc-parser@npm:~2.2.1":
-  version: 2.2.1
-  resolution: "jsonc-parser@npm:2.2.1"
-  checksum: c113878b5edd4232ba0742c7e0ddefb22a2a8ef1aafa1674c0eb4c5df0be11ed02bc8288f52ebe44b1696de336e1bc06e7bbc1458d0f910540d72b57ee7c8084
+"jsonc-parser@npm:~3.2.1":
+  version: 3.2.1
+  resolution: "jsonc-parser@npm:3.2.1"
+  checksum: 656d9027b91de98d8ab91b3aa0d0a4cab7dc798a6830845ca664f3e76c82d46b973675bbe9b500fae1de37fd3e81aceacbaa2a57884bf2f8f29192150d2d1ef7
   languageName: node
   linkType: hard
 
