@@ -4359,7 +4359,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/lodash-es", "npm:4.17.7"],\
             ["@types/node", "npm:18.7.18"],\
             ["@types/prettier", "npm:2.7.3"],\
-            ["@types/url-join", "npm:4.0.1"],\
+            ["@types/url-join", "npm:4.0.3"],\
             ["depcheck", "npm:1.4.6"],\
             ["eslint", "npm:8.56.0"],\
             ["jest", "virtual:f8e21c9fa0a798b21a87ac455600e39198fef65848556a3a2cd5c956b0460181f9e618173dcff6d9d4fb96fb870055dfe1a3ec3db5db0700e71c0184e4711659#npm:29.7.0"],\
@@ -4607,7 +4607,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/lodash-es", "npm:4.17.7"],\
             ["@types/node", "npm:18.7.18"],\
             ["@types/qs", "npm:6.9.11"],\
-            ["@types/url-join", "npm:4.0.1"],\
+            ["@types/url-join", "npm:4.0.3"],\
             ["depcheck", "npm:1.4.6"],\
             ["eslint", "npm:8.56.0"],\
             ["express", "npm:4.18.2"],\
@@ -7207,6 +7207,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/@types-url-join-npm-4.0.1-996120d4f1-29444b90e1.zip/node_modules/@types/url-join/",\
           "packageDependencies": [\
             ["@types/url-join", "npm:4.0.1"]\
+          ],\
+          "linkType": "HARD"\
+        }],\
+        ["npm:4.0.3", {\
+          "packageLocation": "./.yarn/cache/@types-url-join-npm-4.0.3-919616b7dd-21b5145159.zip/node_modules/@types/url-join/",\
+          "packageDependencies": [\
+            ["@types/url-join", "npm:4.0.3"]\
           ],\
           "linkType": "HARD"\
         }]\
