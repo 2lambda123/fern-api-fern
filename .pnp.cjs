@@ -274,7 +274,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@blueprintjs/eslint-plugin", "npm:2.1.2"],\
             ["@blueprintjs/stylelint-plugin", "virtual:f8e21c9fa0a798b21a87ac455600e39198fef65848556a3a2cd5c956b0460181f9e618173dcff6d9d4fb96fb870055dfe1a3ec3db5db0700e71c0184e4711659#npm:4.1.3"],\
             ["@types/is-ci", "npm:3.0.4"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/lodash-es", "npm:4.17.7"],\
             ["@types/node", "npm:18.7.18"],\
             ["@typescript-eslint/eslint-plugin", "virtual:f8e21c9fa0a798b21a87ac455600e39198fef65848556a3a2cd5c956b0460181f9e618173dcff6d9d4fb96fb870055dfe1a3ec3db5db0700e71c0184e4711659#npm:5.30.5"],\
@@ -3772,7 +3772,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fern-api/fs-utils", "workspace:packages/commons/fs-utils"],\
             ["@fern-api/task-context", "workspace:packages/cli/task-context"],\
             ["@fern-api/venus-api-sdk", "npm:0.0.38"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/jsonwebtoken", "npm:9.0.5"],\
             ["@types/node", "npm:18.7.18"],\
             ["depcheck", "npm:1.4.6"],\
@@ -3828,7 +3828,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/axios", "npm:0.14.0"],\
             ["@types/boxen", "npm:3.0.1"],\
             ["@types/is-ci", "npm:3.0.4"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/js-yaml", "npm:4.0.9"],\
             ["@types/latest-version", "npm:4.0.1"],\
             ["@types/lodash-es", "npm:4.17.7"],\
@@ -3908,7 +3908,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fern-api/yaml-formatter", "workspace:packages/cli/yaml/formatter"],\
             ["@fern-api/yaml-migrations", "workspace:packages/cli/yaml/yaml-migrations"],\
             ["@fern-api/yaml-schema", "workspace:packages/cli/yaml/yaml-schema"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/node", "npm:18.7.18"],\
             ["depcheck", "npm:1.4.6"],\
             ["eslint", "npm:8.56.0"],\
@@ -3927,7 +3927,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fern-api/config-management-commons", "workspace:packages/cli/config-management/commons"],\
             ["@fern-api/core-utils", "workspace:packages/commons/core-utils"],\
             ["@fern-api/task-context", "workspace:packages/cli/task-context"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/node", "npm:18.7.18"],\
             ["depcheck", "npm:1.4.6"],\
             ["eslint", "npm:8.56.0"],\
@@ -3948,7 +3948,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fern-api/fdr-sdk", "npm:0.46.1-18-g26596cb"],\
             ["@fern-api/venus-api-sdk", "npm:0.0.38"],\
             ["@fern-fern/fiddle-sdk", "npm:0.0.386"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/node", "npm:18.7.18"],\
             ["depcheck", "npm:1.4.6"],\
             ["eslint", "npm:8.56.0"],\
@@ -3965,7 +3965,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./packages/commons/core-utils/",\
           "packageDependencies": [\
             ["@fern-api/core-utils", "workspace:packages/commons/core-utils"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/node", "npm:18.7.18"],\
             ["@types/ua-parser-js", "npm:0.7.36"],\
             ["depcheck", "npm:1.4.6"],\
@@ -3989,7 +3989,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fern-api/fs-utils", "workspace:packages/commons/fs-utils"],\
             ["@fern-api/project-configuration", "workspace:packages/cli/config-management/project-configuration"],\
             ["@fern-api/task-context", "workspace:packages/cli/task-context"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/js-yaml", "npm:4.0.9"],\
             ["@types/node", "npm:18.7.18"],\
             ["depcheck", "npm:1.4.6"],\
@@ -4011,7 +4011,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fern-api/docker-utils", "workspace:packages/cli/generation/local-generation/docker-utils"],\
             ["@fern-api/fs-utils", "workspace:packages/commons/fs-utils"],\
             ["@types/dockerode", "npm:3.3.9"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/node", "npm:18.7.18"],\
             ["depcheck", "npm:1.4.6"],\
             ["dockerode", "npm:3.3.2"],\
@@ -4036,7 +4036,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fern-api/fs-utils", "workspace:packages/commons/fs-utils"],\
             ["@fern-api/task-context", "workspace:packages/cli/task-context"],\
             ["@fern-fern/docs-config", "npm:0.0.53"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/js-yaml", "npm:4.0.9"],\
             ["@types/node", "npm:18.7.18"],\
             ["depcheck", "npm:1.4.6"],\
@@ -4066,7 +4066,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fern-fern/docs-config", "npm:0.0.53"],\
             ["@types/cors", "npm:2.8.17"],\
             ["@types/express", "npm:4.17.21"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/node", "npm:18.7.18"],\
             ["@types/uuid", "npm:9.0.7"],\
             ["cors", "npm:2.8.5"],\
@@ -4092,7 +4092,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fern-api/project-configuration", "workspace:packages/cli/config-management/project-configuration"],\
             ["@fern-api/workspace-loader", "workspace:packages/cli/workspace-loader"],\
             ["@fern-api/yaml-schema", "workspace:packages/cli/yaml/yaml-schema"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/node", "npm:18.7.18"],\
             ["depcheck", "npm:1.4.6"],\
             ["eslint", "npm:8.56.0"],\
@@ -4115,7 +4115,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fern-api/generators-configuration", "workspace:packages/cli/config-management/generators-configuration"],\
             ["@fern-api/logging-execa", "workspace:packages/commons/logging-execa"],\
             ["@fern-api/project-configuration", "workspace:packages/cli/config-management/project-configuration"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/js-yaml", "npm:4.0.9"],\
             ["@types/node", "npm:18.7.18"],\
             ["depcheck", "npm:1.4.6"],\
@@ -4159,7 +4159,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fern-api/ruby-codegen", "workspace:generators/ruby/codegen"],\
             ["@fern-fern/generator-exec-sdk", "npm:0.0.472"],\
             ["@fern-fern/ir-sdk", "npm:0.0.3277"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/node", "npm:18.7.18"],\
             ["@yarnpkg/esbuild-plugin-pnp", "virtual:f8c2c21ccf4a7bff0441fa7ad0112165eef5a99e1541a7f735814dca224460f0aac610b288e46779d03f09b1af2c6d92073604dc78c5efe37c27cfff6010d3d2#npm:3.0.0-rc.15"],\
             ["depcheck", "npm:1.4.6"],\
@@ -4190,7 +4190,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fern-api/ruby-codegen", "workspace:generators/ruby/codegen"],\
             ["@fern-fern/generator-exec-sdk", "npm:0.0.472"],\
             ["@fern-fern/ir-sdk", "npm:0.0.3294"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/lodash-es", "npm:4.17.7"],\
             ["@types/node", "npm:18.7.18"],\
             ["@yarnpkg/esbuild-plugin-pnp", "virtual:f8c2c21ccf4a7bff0441fa7ad0112165eef5a99e1541a7f735814dca224460f0aac610b288e46779d03f09b1af2c6d92073604dc78c5efe37c27cfff6010d3d2#npm:3.0.0-rc.15"],\
@@ -4214,7 +4214,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["@fern-api/fs-utils", "workspace:packages/commons/fs-utils"],\
             ["@fern-api/core-utils", "workspace:packages/commons/core-utils"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/node", "npm:18.7.18"],\
             ["depcheck", "npm:1.4.6"],\
             ["eslint", "npm:8.56.0"],\
@@ -4239,7 +4239,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fern-api/logging-execa", "workspace:packages/commons/logging-execa"],\
             ["@fern-fern/generator-exec-sdk", "npm:0.0.472"],\
             ["@fern-fern/ir-sdk", "npm:0.0.3294"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/node", "npm:18.7.18"],\
             ["depcheck", "npm:1.4.6"],\
             ["eslint", "npm:8.56.0"],\
@@ -4262,7 +4262,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fern-api/logging-execa", "workspace:packages/commons/logging-execa"],\
             ["@fern-fern/generator-exec-sdk", "npm:0.0.472"],\
             ["@fern-fern/ir-sdk", "npm:0.0.3294"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/node", "npm:18.7.18"],\
             ["depcheck", "npm:1.4.6"],\
             ["eslint", "npm:8.56.0"],\
@@ -4287,7 +4287,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fern-api/project-configuration", "workspace:packages/cli/config-management/project-configuration"],\
             ["@fern-api/task-context", "workspace:packages/cli/task-context"],\
             ["@fern-fern/fiddle-sdk", "npm:0.0.386"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/js-yaml", "npm:4.0.9"],\
             ["@types/node", "npm:18.7.18"],\
             ["depcheck", "npm:1.4.6"],\
@@ -4319,7 +4319,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fern-api/yaml-schema", "workspace:packages/cli/yaml/yaml-schema"],\
             ["@fern-fern/docs-config", "npm:0.0.53"],\
             ["@types/fs-extra", "npm:11.0.1"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/js-yaml", "npm:4.0.9"],\
             ["@types/lodash-es", "npm:4.17.7"],\
             ["@types/node", "npm:18.7.18"],\
@@ -4354,7 +4354,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fern-api/workspace-loader", "workspace:packages/cli/workspace-loader"],\
             ["@fern-api/yaml-schema", "workspace:packages/cli/yaml/yaml-schema"],\
             ["@fern-fern/ir-sdk", "npm:0.0.3294"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/jest-specific-snapshot", "npm:0.5.7"],\
             ["@types/lodash-es", "npm:4.17.7"],\
             ["@types/node", "npm:18.7.18"],\
@@ -4418,7 +4418,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fern-fern/ir-v7-model", "npm:0.0.2"],\
             ["@fern-fern/ir-v8-model", "npm:0.0.1"],\
             ["@fern-fern/ir-v9-model", "npm:0.0.1"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/lodash-es", "npm:4.17.7"],\
             ["@types/node", "npm:18.7.18"],\
             ["depcheck", "npm:1.4.6"],\
@@ -4439,7 +4439,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fern-api/json-schema", "workspace:packages/cli/yaml/json-schema"],\
             ["@fern-api/fs-utils", "workspace:packages/commons/fs-utils"],\
             ["@fern-api/yaml-schema", "workspace:packages/cli/yaml/yaml-schema"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/node", "npm:18.7.18"],\
             ["@types/prettier", "npm:2.7.3"],\
             ["depcheck", "npm:1.4.6"],\
@@ -4460,7 +4460,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["@fern-api/loadable", "workspace:packages/commons/loadable"],\
             ["@fern-api/core-utils", "workspace:packages/commons/core-utils"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/node", "npm:18.7.18"],\
             ["depcheck", "npm:1.4.6"],\
             ["eslint", "npm:8.56.0"],\
@@ -4489,7 +4489,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fern-api/workspace-loader", "workspace:packages/cli/workspace-loader"],\
             ["@fern-fern/generator-exec-sdk", "npm:0.0.472"],\
             ["@types/decompress", "npm:4.2.7"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/node", "npm:18.7.18"],\
             ["@types/tmp", "npm:0.2.4"],\
             ["chalk", "npm:5.0.1"],\
@@ -4511,7 +4511,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["@fern-api/logger", "workspace:packages/cli/logger"],\
             ["@fern-api/core-utils", "workspace:packages/commons/core-utils"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/node", "npm:18.7.18"],\
             ["chalk", "npm:5.0.1"],\
             ["depcheck", "npm:1.4.6"],\
@@ -4530,7 +4530,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["@fern-api/logging-execa", "workspace:packages/commons/logging-execa"],\
             ["@fern-api/logger", "workspace:packages/cli/logger"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/node", "npm:18.7.18"],\
             ["depcheck", "npm:1.4.6"],\
             ["eslint", "npm:8.56.0"],\
@@ -4555,7 +4555,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fern-api/task-context", "workspace:packages/cli/task-context"],\
             ["@types/boxen", "npm:3.0.1"],\
             ["@types/inquirer", "npm:9.0.7"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/node", "npm:18.7.18"],\
             ["@types/qs", "npm:6.9.11"],\
             ["axios", "npm:1.6.7"],\
@@ -4582,7 +4582,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fern-api/generators-configuration", "workspace:packages/cli/config-management/generators-configuration"],\
             ["@fern-api/logger", "workspace:packages/cli/logger"],\
             ["@fern-api/task-context", "workspace:packages/cli/task-context"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/node", "npm:18.7.18"],\
             ["depcheck", "npm:1.4.6"],\
             ["eslint", "npm:8.56.0"],\
@@ -4603,7 +4603,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fern-api/task-context", "workspace:packages/cli/task-context"],\
             ["@fern-fern/ir-sdk", "npm:0.0.3294"],\
             ["@types/express", "npm:4.17.21"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/lodash-es", "npm:4.17.7"],\
             ["@types/node", "npm:18.7.18"],\
             ["@types/qs", "npm:6.9.11"],\
@@ -4630,7 +4630,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fern-api/openapi-generator", "workspace:generators/openapi"],\
             ["@fern-fern/generator-exec-client", "virtual:f8c2c21ccf4a7bff0441fa7ad0112165eef5a99e1541a7f735814dca224460f0aac610b288e46779d03f09b1af2c6d92073604dc78c5efe37c27cfff6010d3d2#npm:0.0.37"],\
             ["@fern-fern/ir-sdk", "npm:0.0.2828"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/js-yaml", "npm:4.0.9"],\
             ["@types/lodash-es", "npm:4.17.7"],\
             ["@types/node", "npm:18.7.18"],\
@@ -4664,7 +4664,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fern-api/task-context", "workspace:packages/cli/task-context"],\
             ["@fern-api/yaml-schema", "workspace:packages/cli/yaml/yaml-schema"],\
             ["@fern-fern/openapi-ir-model", "npm:0.0.165"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/lodash-es", "npm:4.17.7"],\
             ["@types/node", "npm:18.7.18"],\
             ["depcheck", "npm:1.4.6"],\
@@ -4691,7 +4691,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fern-api/yaml-schema", "workspace:packages/cli/yaml/yaml-schema"],\
             ["@fern-fern/openapi-ir-model", "npm:0.0.165"],\
             ["@redocly/openapi-core", "npm:1.4.1"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/js-yaml", "npm:4.0.9"],\
             ["@types/lodash-es", "npm:4.17.7"],\
             ["@types/node", "npm:18.7.18"],\
@@ -4718,7 +4718,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fern-api/auth", "workspace:packages/cli/auth"],\
             ["@fern-api/fs-utils", "workspace:packages/commons/fs-utils"],\
             ["@fern-api/task-context", "workspace:packages/cli/task-context"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/node", "npm:18.7.18"],\
             ["@types/uuid", "npm:9.0.7"],\
             ["depcheck", "npm:1.4.6"],\
@@ -4741,7 +4741,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fern-fern/generator-exec-sdk", "npm:0.0.472"],\
             ["@fern-fern/ir-sdk", "npm:0.0.2828"],\
             ["@fern-fern/postman-sdk", "npm:0.0.46"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/lodash", "npm:4.14.202"],\
             ["@types/node", "npm:18.7.18"],\
             ["@types/postman-collection", "npm:3.5.10"],\
@@ -4770,7 +4770,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fern-api/config-management-commons", "workspace:packages/cli/config-management/commons"],\
             ["@fern-api/fs-utils", "workspace:packages/commons/fs-utils"],\
             ["@fern-api/task-context", "workspace:packages/cli/task-context"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/node", "npm:18.7.18"],\
             ["depcheck", "npm:1.4.6"],\
             ["eslint", "npm:8.56.0"],\
@@ -4795,7 +4795,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fern-api/project-configuration", "workspace:packages/cli/config-management/project-configuration"],\
             ["@fern-api/task-context", "workspace:packages/cli/task-context"],\
             ["@fern-api/workspace-loader", "workspace:packages/cli/workspace-loader"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/js-yaml", "npm:4.0.9"],\
             ["@types/node", "npm:18.7.18"],\
             ["chalk", "npm:5.0.1"],\
@@ -4825,7 +4825,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fern-api/task-context", "workspace:packages/cli/task-context"],\
             ["@fern-api/workspace-loader", "workspace:packages/cli/workspace-loader"],\
             ["@fern-fern/ir-sdk", "npm:0.0.3294"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/lodash-es", "npm:4.17.7"],\
             ["@types/node", "npm:18.7.18"],\
             ["depcheck", "npm:1.4.6"],\
@@ -4862,7 +4862,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fern-fern/fiddle-sdk", "npm:0.0.386"],\
             ["@fern-fern/ir-sdk", "npm:0.0.3294"],\
             ["@types/decompress", "npm:4.2.7"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/lodash-es", "npm:4.17.7"],\
             ["@types/mime-types", "npm:2.1.4"],\
             ["@types/node", "npm:18.7.18"],\
@@ -4893,7 +4893,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fern-api/ruby-codegen", "workspace:generators/ruby/codegen"],\
             ["@fern-api/fs-utils", "workspace:packages/commons/fs-utils"],\
             ["@fern-fern/ir-sdk", "npm:0.0.3294"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/lodash-es", "npm:4.17.7"],\
             ["@types/node", "npm:18.7.18"],\
             ["depcheck", "npm:1.4.6"],\
@@ -4914,7 +4914,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fern-api/scripts", "workspace:packages/scripts"],\
             ["@fern-api/fs-utils", "workspace:packages/commons/fs-utils"],\
             ["@fern-api/json-schema", "workspace:packages/cli/yaml/json-schema"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/js-yaml", "npm:4.0.9"],\
             ["@types/lodash-es", "npm:4.17.7"],\
             ["@types/node", "npm:18.7.18"],\
@@ -4955,7 +4955,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fern-fern/fiddle-sdk", "npm:0.0.386"],\
             ["@fern-fern/seed-config", "npm:0.0.15"],\
             ["@types/find-up", "npm:4.0.0"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/js-yaml", "npm:4.0.9"],\
             ["@types/lodash-es", "npm:4.17.7"],\
             ["@types/node", "npm:18.7.18"],\
@@ -4984,7 +4984,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./packages/cli/semver-utils/",\
           "packageDependencies": [\
             ["@fern-api/semver-utils", "workspace:packages/cli/semver-utils"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/node", "npm:18.7.18"],\
             ["depcheck", "npm:1.4.6"],\
             ["eslint", "npm:8.56.0"],\
@@ -5003,7 +5003,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["@fern-api/task-context", "workspace:packages/cli/task-context"],\
             ["@fern-api/logger", "workspace:packages/cli/logger"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/node", "npm:18.7.18"],\
             ["depcheck", "npm:1.4.6"],\
             ["eslint", "npm:8.56.0"],\
@@ -5028,7 +5028,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fern-api/task-context", "workspace:packages/cli/task-context"],\
             ["@fern-api/workspace-loader", "workspace:packages/cli/workspace-loader"],\
             ["@fern-api/yaml-schema", "workspace:packages/cli/yaml/yaml-schema"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/lodash-es", "npm:4.17.7"],\
             ["@types/node", "npm:18.7.18"],\
             ["chalk", "npm:5.0.1"],\
@@ -5076,7 +5076,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fern-fern/docs-config", "npm:0.0.53"],\
             ["@fern-fern/fiddle-sdk", "npm:0.0.386"],\
             ["@fern-fern/openapi-ir-model", "npm:0.0.165"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/js-yaml", "npm:4.0.9"],\
             ["@types/lodash-es", "npm:4.17.7"],\
             ["@types/node", "npm:18.7.18"],\
@@ -5109,7 +5109,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fern-api/task-context", "workspace:packages/cli/task-context"],\
             ["@fern-api/workspace-loader", "workspace:packages/cli/workspace-loader"],\
             ["@fern-api/yaml-schema", "workspace:packages/cli/yaml/yaml-schema"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/node", "npm:18.7.18"],\
             ["@types/prettier", "npm:2.7.3"],\
             ["chalk", "npm:5.0.1"],\
@@ -5136,7 +5136,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fern-fern/docs-config", "npm:0.0.53"],\
             ["@fern-fern/legacy-docs-config", "npm:0.0.58"],\
             ["@types/inquirer", "npm:9.0.7"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/js-yaml", "npm:4.0.9"],\
             ["@types/node", "npm:18.7.18"],\
             ["chalk", "npm:5.0.1"],\
@@ -5167,7 +5167,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fern-api/fs-utils", "workspace:packages/commons/fs-utils"],\
             ["@fern-fern/docs-config", "npm:0.0.53"],\
             ["@fern-fern/ir-sdk", "npm:0.0.3294"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/js-yaml", "npm:4.0.9"],\
             ["@types/node", "npm:18.7.18"],\
             ["depcheck", "npm:1.4.6"],\
@@ -6717,10 +6717,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@types/jest", [\
-        ["npm:29.0.3", {\
-          "packageLocation": "./.yarn/cache/@types-jest-npm-29.0.3-3116a436db-14a8ec1954.zip/node_modules/@types/jest/",\
+        ["npm:29.5.12", {\
+          "packageLocation": "./.yarn/cache/@types-jest-npm-29.5.12-6459b9d012-19b1efdeed.zip/node_modules/@types/jest/",\
           "packageDependencies": [\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["expect", "npm:29.0.3"],\
             ["pretty-format", "npm:29.0.3"]\
           ],\
@@ -11357,7 +11357,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["eslint-plugin-jest", "virtual:f8e21c9fa0a798b21a87ac455600e39198fef65848556a3a2cd5c956b0460181f9e618173dcff6d9d4fb96fb870055dfe1a3ec3db5db0700e71c0184e4711659#npm:27.0.4"],\
             ["@types/eslint", null],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/typescript-eslint__eslint-plugin", null],\
             ["@typescript-eslint/eslint-plugin", "virtual:f8e21c9fa0a798b21a87ac455600e39198fef65848556a3a2cd5c956b0460181f9e618173dcff6d9d4fb96fb870055dfe1a3ec3db5db0700e71c0184e4711659#npm:5.30.5"],\
             ["@typescript-eslint/utils", "virtual:b2c0f126dda65393d658425141fc0324006bc014573ca9c6f76dc0e7370f5c6358c98ee026b5cd6bae512e3f9f88ed9841a65a22c2950b9ec2949b246b761bd8#npm:5.32.0"],\
@@ -11968,7 +11968,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@blueprintjs/eslint-plugin", "npm:2.1.2"],\
             ["@blueprintjs/stylelint-plugin", "virtual:f8e21c9fa0a798b21a87ac455600e39198fef65848556a3a2cd5c956b0460181f9e618173dcff6d9d4fb96fb870055dfe1a3ec3db5db0700e71c0184e4711659#npm:4.1.3"],\
             ["@types/is-ci", "npm:3.0.4"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["@types/lodash-es", "npm:4.17.7"],\
             ["@types/node", "npm:18.7.18"],\
             ["@typescript-eslint/eslint-plugin", "virtual:f8e21c9fa0a798b21a87ac455600e39198fef65848556a3a2cd5c956b0460181f9e618173dcff6d9d4fb96fb870055dfe1a3ec3db5db0700e71c0184e4711659#npm:5.30.5"],\
@@ -14320,7 +14320,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/__virtual__/jest-specific-snapshot-virtual-37227ff960/0/cache/jest-specific-snapshot-npm-8.0.0-5813d98b95-8ffcee9ca7.zip/node_modules/jest-specific-snapshot/",\
           "packageDependencies": [\
             ["jest-specific-snapshot", "virtual:523c1d076d4760bb6eb3bb7029ccc1598c5468536b9d087aaf315373dd2f0ed9160836e4a65555ec77d757e4d087d60f41d8e40b7d78a1773eecf9bea15c6111#npm:8.0.0"],\
-            ["@types/jest", "npm:29.0.3"],\
+            ["@types/jest", "npm:29.5.12"],\
             ["jest", "virtual:f8e21c9fa0a798b21a87ac455600e39198fef65848556a3a2cd5c956b0460181f9e618173dcff6d9d4fb96fb870055dfe1a3ec3db5db0700e71c0184e4711659#npm:29.7.0"],\
             ["jest-snapshot", "npm:29.7.0"]\
           ],\
