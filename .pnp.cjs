@@ -293,7 +293,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["immer", "npm:9.0.15"],\
             ["is-ci", "npm:3.0.1"],\
             ["jest", "virtual:f8e21c9fa0a798b21a87ac455600e39198fef65848556a3a2cd5c956b0460181f9e618173dcff6d9d4fb96fb870055dfe1a3ec3db5db0700e71c0184e4711659#npm:29.7.0"],\
-            ["jsonc-parser", "npm:2.2.1"],\
+            ["jsonc-parser", "npm:3.2.1"],\
             ["lint-staged", "npm:13.0.3"],\
             ["lodash-es", "npm:4.17.21"],\
             ["mrlint", "npm:0.0.131"],\
@@ -11987,7 +11987,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["immer", "npm:9.0.15"],\
             ["is-ci", "npm:3.0.1"],\
             ["jest", "virtual:f8e21c9fa0a798b21a87ac455600e39198fef65848556a3a2cd5c956b0460181f9e618173dcff6d9d4fb96fb870055dfe1a3ec3db5db0700e71c0184e4711659#npm:29.7.0"],\
-            ["jsonc-parser", "npm:2.2.1"],\
+            ["jsonc-parser", "npm:3.2.1"],\
             ["lint-staged", "npm:13.0.3"],\
             ["lodash-es", "npm:4.17.21"],\
             ["mrlint", "npm:0.0.131"],\
@@ -14565,10 +14565,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["jsonc-parser", [\
-        ["npm:2.2.1", {\
-          "packageLocation": "./.yarn/unplugged/jsonc-parser-npm-2.2.1-31c56e9df8/node_modules/jsonc-parser/",\
+        ["npm:3.2.1", {\
+          "packageLocation": "./.yarn/cache/jsonc-parser-npm-3.2.1-776f636a18-656d9027b9.zip/node_modules/jsonc-parser/",\
           "packageDependencies": [\
-            ["jsonc-parser", "npm:2.2.1"]\
+            ["jsonc-parser", "npm:3.2.1"]\
           ],\
           "linkType": "HARD"\
         }]\
