@@ -41,7 +41,7 @@
     "swagger2openapi": "7.0.8"
   },
   "devDependencies": {
-    "@types/jest": "^29.0.3",
+    "@types/jest": "^29.5.12",
     "@types/js-yaml": "^4.0.9",
     "@types/lodash-es": "^4.17.7",
     "@types/node": "^18.7.18",
