@@ -2665,7 +2665,7 @@ __metadata:
     "@types/decompress": ^4.2.7
     "@types/jest": ^29.5.12
     "@types/node": ^18.7.18
-    "@types/tmp": ^0.2.4
+    "@types/tmp": ^0.2.6
     chalk: ^5.0.1
     decompress: ^4.2.1
     depcheck: ^1.4.6
@@ -5036,10 +5036,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/tmp@npm:^0.2.4":
-  version: 0.2.4
-  resolution: "@types/tmp@npm:0.2.4"
-  checksum: bff8b07835fa686056ff03e5e3533d6890c07d0c5b9bd691d3142727176b8fae4494e4944f827ba43ed54690ed837c0e1afb2fb19da7c7d8abc78f1b2d57ee41
+"@types/tmp@npm:^0.2.6":
+  version: 0.2.6
+  resolution: "@types/tmp@npm:0.2.6"
+  checksum: 0b24bb6040cc289440a609e10ec99a704978c890a5828ff151576489090b2257ce2e2570b0f320ace9c8099c3642ea6221fbdf6d8f2e22b7cd1f4fbf6e989e3e
   languageName: node
   linkType: hard
 

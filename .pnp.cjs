@@ -4491,7 +4491,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/decompress", "npm:4.2.7"],\
             ["@types/jest", "npm:29.5.12"],\
             ["@types/node", "npm:18.7.18"],\
-            ["@types/tmp", "npm:0.2.4"],\
+            ["@types/tmp", "npm:0.2.6"],\
             ["chalk", "npm:5.0.1"],\
             ["decompress", "npm:4.2.1"],\
             ["depcheck", "npm:1.4.6"],\
@@ -7170,10 +7170,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@types/tmp", [\
-        ["npm:0.2.4", {\
-          "packageLocation": "./.yarn/cache/@types-tmp-npm-0.2.4-d6380e748c-bff8b07835.zip/node_modules/@types/tmp/",\
+        ["npm:0.2.6", {\
+          "packageLocation": "./.yarn/cache/@types-tmp-npm-0.2.6-616955bb04-0b24bb6040.zip/node_modules/@types/tmp/",\
           "packageDependencies": [\
-            ["@types/tmp", "npm:0.2.4"]\
+            ["@types/tmp", "npm:0.2.6"]\
           ],\
           "linkType": "HARD"\
         }]\
